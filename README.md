@@ -44,6 +44,7 @@ int main() {
 ## License
 
 - GetEnvValue-cpp is under MIT License.
+- It's a part of jaytwo(j2) library.
 - https://github.com/JayTwoLab/GetEnvValue-cpp
 
 
