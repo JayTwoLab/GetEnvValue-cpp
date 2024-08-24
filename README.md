@@ -1,7 +1,7 @@
 # GetEnvValue-cpp
 
 - Get environment value of OS.
-    - Use Modern C++ (C++17)
+    - It uses only Modern C++ (C++17).
 
 - How to install 
     - Just include ```GetEnvValue-cpp.h```
