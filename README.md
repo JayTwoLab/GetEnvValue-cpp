@@ -40,3 +40,10 @@ int main() {
     return 0;
 }
 ```
+
+## License
+
+- GetEnvValue-cpp is under MIT License.
+- https://github.com/JayTwoLab/GetEnvValue-cpp
+
+
