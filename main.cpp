@@ -10,6 +10,7 @@ int main() {
         std::cout << envVarName << " is not set.\n";
         return 0;
     }
+    std::cout << envVarValue.value() << std::endl;
 
 #ifdef _WIN32
     char delimiter = ';';
