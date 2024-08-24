@@ -1,13 +1,4 @@
-# GetEnvValue-cpp
 
-- Get environment value of OS.
-
-- How to install 
-    - Just include ```GetEnvValue-cpp.h```
-
-- Case of obtaining ```PATH``` variable
-
-```
 #include "GetEnvValue-cpp.h"
 
 int main() {
@@ -39,4 +30,3 @@ int main() {
 
     return 0;
 }
-```
