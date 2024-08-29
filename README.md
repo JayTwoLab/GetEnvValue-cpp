@@ -8,7 +8,7 @@
 
 - Case of obtaining ```PATH``` variable
 
-```
+```cpp
 #include "GetEnvValue-cpp.h"
 
 int main() {
